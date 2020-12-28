@@ -16,8 +16,8 @@ class DroneTracking {
 
 
 
-    private fun getPosition() {
-
+    private fun getPosition() : Int {
+        return 5
     }
 
 }
